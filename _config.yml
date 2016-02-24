@@ -1,0 +1,28 @@
+name: job
+favicon: null
+layout_spectrum: 0.6214352534152567
+typography_spectrum: 0.5352904675528407
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.31401906348764896
+  lightness: 0.0653083841316402
+  saturation: 0.4536508896853775
+  rhythmicContrast: 0.45135131874121726
+purpose: []
